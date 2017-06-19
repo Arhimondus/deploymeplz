@@ -1,0 +1,30 @@
+{
+  "name": "deploymeplz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "connect-sqlite3": "^0.9.9",
+    "express": "^4.15.3",
+    "express-react-views": "^0.10.2",
+    "express-session": "^1.15.3",
+    "nedb": "^1.8.0",
+    "nedb-session-store": "^1.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arhimondus/deploymeplz.git"
+  },
+  "author": "AB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Arhimondus/deploymeplz/issues"
+  },
+  "homepage": "https://github.com/Arhimondus/deploymeplz#readme"
+}

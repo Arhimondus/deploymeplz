@@ -1,0 +1,5 @@
+server.cfg.js
+node_modules
+redis
+sessions.db
+*.db
